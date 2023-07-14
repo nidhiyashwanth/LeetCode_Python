@@ -1,9 +1,5 @@
 # Python & LeetCode: The Interview Bootcamp
 
-<img src="https://static.kaeducation.com/lc-py.jpg" width="400">
-
-Website: https://kaeducation.com/lc-py.html
-
 ## Prerequisites
 * [Python](https://www.python.org)
 
